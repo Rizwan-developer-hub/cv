@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.cv-container {
+  width: 50%;
+  margin: 20px auto;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #007BFF;
+}
+
+.header h1 {
+  margin: 0;
+  color: #007BFF;
+}
+
+.header h2 {
+  margin: 5px 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.section {
+  margin-top: 20px;
+}
+
+.section h3 {
+  border-bottom: 2px solid #007BFF;
+  padding-bottom: 5px;
+  color: #007BFF;
+}
+
+.section p {
+  margin: 5px 0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.contact-info p {
+  margin: 5px 0;
+}
